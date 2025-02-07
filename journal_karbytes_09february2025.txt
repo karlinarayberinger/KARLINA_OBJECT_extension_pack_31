@@ -12,7 +12,7 @@ karbytes_1: "In all contexts, karbytes is a collection of public-domain and publ
 
 karbytes_0: "Where does karbytes get most its money?"
 
-karbytes_1: "karbytes gets most (if not all) of its money from employment and/or government aid and/or (to a more limited extent) donations."
+karbytes_1: "karbytes gets most (if not all) of its money from employment and/or government aid and/or donations."
 
 karbytes_0: "Why should a visitor to the aforementioned websites donate money to karbytes via the PayPal donation 'portal' on the home page of either one of those websites (and each of those two home pages refer to the same PayPal account (whose recipient is named 'Karlina Object dot WordPress dot Com')? How much money should a donor donate to karbytes one time?"
 
