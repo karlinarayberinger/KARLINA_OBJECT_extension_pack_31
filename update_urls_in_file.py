@@ -1,20 +1,20 @@
 #########################################################################################
 # file: update_urls_in_file.py
 # type: Python
-# date: 02_FEBRUARY_2025
+# date: 07_FEBRUARY_2025
 # author: karbytes
 # license: PUBLIC_DOMAIN 
 #########################################################################################
 '''
 ---------------------------------------------------------------------------------------------------------------------------
-Modify a copy of raw_github_files_directory_KARLINA_OBJECT_extension_pack_30.html (which is named thing.html)
+Modify a copy of raw_github_files_directory_KARLINA_OBJECT_extension_pack_31.html (which is named thing.html)
 such that each instance of "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_30/main/"
-which occurs in thing.html is changed to "/KARLINA_OBJECT_extension_pack_30/".
+which occurs in thing.html is changed to "/KARLINA_OBJECT_extension_pack_31/".
 
 The purpose of this Python program is to help karbytes quickly and accurately update the .onion website
 which mirrors the "micro directory" at the following Uniform Resource Locator (URL):
 
-https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_30/
+https://karbytesforlifeblog.wordpress.com/raw_github_files_directory_karlina_object_extension_pack_31/
 ---------------------------------------------------------------------------------------------------------------------------
 '''
 def replace_in_file(file_name, old_string, new_string):
@@ -38,8 +38,8 @@ def replace_in_file(file_name, old_string, new_string):
 
 # Parameters
 file_name = "thing.html"
-old_string = "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_30/main/"
-new_string = "/KARLINA_OBJECT_extension_pack_30/"
+old_string = "https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_31/main/"
+new_string = "/KARLINA_OBJECT_extension_pack_31/"
 
 # Execute the function
 replace_in_file(file_name, old_string, new_string)
