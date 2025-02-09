@@ -1,0 +1,21 @@
+/**
+ * file: journal_karbytes_11february2025.txt
+ * type: plain-text
+ * date: 08_FEBRUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes_0: "A calorie in my nervous system is worth more than a calorie in your nervous system."
+
+karbytes_1: "Did a calorie say that?"
+
+karbytes_0: "The answer to your question depends on how many calories are required to form that opinion." 
+
+karbytes: "This does not sound like the best food for thought in this blog (which is the cluster of websites whose 'root-level directory' web page on the World Wide Web is 'https://karlinaobject.wordpress.com')."
+
+karbytes_0: "Some food is necessary for thoughts to be had using (merely human) nervous systems such as ours."
+
+karbytes: "If any one of us is a 'software level' (or 'software-dependent process level') entity whose 'underlying hardware' is something other than human cells, then it may be the case that not each of us requires food in order for that entity to think."
+
+karbytes_1: "I am in the process of obtaining human food which I may or may not consume in order to extend the 'rental period' of my (current) 'bundle' of concurrent thought processes 'taking up space and resources' in some heavily contested over piece of turf, sea, or sky."
