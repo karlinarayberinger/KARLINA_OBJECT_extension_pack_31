@@ -1,0 +1,9 @@
+/**
+ * file: journal_karbytes_12february2025.txt
+ * type: plain-text
+ * date: 08_FEBRUARY_2025
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+karbytes: "Perhaps, in a nutshell, my political ideology boils down to exactly one imperative: enabling every human individual (who is too old to be legally prenatally aborted by today's first world country standards) to live for an infinitely long time period and/or for as long as each human individual wants to (but that would seemingly necessitate limiting and eventually stopping human population increase)."
