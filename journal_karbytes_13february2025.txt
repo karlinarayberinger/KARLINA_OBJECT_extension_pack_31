@@ -14,4 +14,4 @@ karbytes_0: "Yes if I consider you to be essential to my ego's constitution or s
 
 karbytes: "I suppose this note extends the note at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_31/main/journal_karbytes_12february2025.txt".
 
-karbytes_0: I suppose this note extends the note at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_31/main/chatgpt_karbytes_10february2025.txt".
+karbytes_0: "I suppose this note extends the note at the following Uniform Resource Locator: https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_31/main/chatgpt_karbytes_10february2025.txt".
