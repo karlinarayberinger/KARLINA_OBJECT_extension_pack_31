@@ -10,7 +10,7 @@ file_0: KARLINA_OBJECT_extension_pack_14-main.zip // 6.14 megabytes
 
 file_1: KARLINA_OBJECT_extension_pack_17-main.zip // 725.00 megabytes
 
-file_2: KARLINA_OBJECT_extension_pack_31-main_[undefined_day].zip // 87.36 megabytes
+file_2: KARLINA_OBJECT_extension_pack_31-main.zip // 87.36 megabytes
 
 file_3: KARBYTES_JOURNAL_2023_PART_17-main.zip // 6.15 megabytes
 
