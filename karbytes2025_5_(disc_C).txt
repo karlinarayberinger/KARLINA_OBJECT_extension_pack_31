@@ -1,0 +1,85 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: karbytes2025_5_C
+
+file_0: KARLINA_OBJECT_extension_pack_9-main.zip // 226.46 megabytes
+
+file_1: karbytes_basement_21-main.zip // 17.00 megabytes
+
+file_2: karbytes_basement_9-main.zip // 34.36 megabytes
+
+file_3: KARLINA_OBJECT_extension_pack_12-main.zip // 32.70 megabytes
+
+file_4: RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip // 0.27 megabytes
+
+file_5: KARLINA_OBJECT_extension_pack_2-main.zip // 124.29 megabytes
+
+file_6: karbytes_basement_7-main.zip // 2.31 megabytes
+
+file_7: karbytes_basement_19-main.zip // 71.67 megabytes
+
+file_8: KARLINA_OBJECT_extension_pack_3-main.zip // 363.52 megabytes
+
+file_9: karbytes_basement_3-main.zip // 2.53 megabytes
+
+file_10: KARLINA_OBJECT_extension_pack_10-main.zip // 258.38 megabytes
+
+file_11: KARLINA_OBJECT_extension_pack_7-main.zip // 41.98 megabytes
+
+file_12: KARLINA_OBJECT_extension_pack_1-main.zip // 38.77 megabytes
+
+file_13: karbytes_basement_6-main.zip // 1.47 megabytes
+
+file_14: KARLINA_OBJECT_extension_pack_5-main.zip // 208.35 megabytes
+
+file_15: KARLINA_OBJECT_extension_pack_4-main.zip // 332.34 megabytes
+
+file_16: karbytes_basement_18-main.zip // 34.01 megabytes
+
+file_17: karbytes_basement_12-main.zip // 7.51 megabytes
+
+file_18: karbytes_basement_5-main.zip // 6.71 megabytes
+
+file_19: karbytes_basement_13-main.zip // 67.31 megabytes
+
+file_20: karbytes_basement_0-main.zip // 149.14 megabytes
+
+file_21: KARLINA_OBJECT_extension_pack_11-main.zip // 8.22 megabytes
+
+file_22: KARLINA_OBJECT_extension_pack_13-main.zip // 11.93 megabytes
+
+file_23: karbytes_basement_4-main.zip // 24.09 megabytes
+
+file_24: karbytes_basement_8-main.zip // 10.53 megabytes
+
+file_25: karbytes_basement_20-main.zip // 21.53 megabytes
+
+file_26: karbytes_basement_11-main.zip // 26.64 megabytes
+
+file_27: KARLINA_OBJECT_extension_pack_8-main.zip // 99.66 megabytes
+
+file_28: karbytes_basement_1-main.zip // 164.38 megabytes
+
+file_29: karbytes_basement_2-main.zip // 65.78 megabytes
+
+file_30: karbytes_basement_n-main.zip // 99.64 megabytes
+
+file_31: karbytes_basement_10-main.zip // 16.04 megabytes
+
+file_32: KARLINA_OBJECT_extension_pack_6-main.zip // 24.04 megabytes
+
+file_33: KARLINA_OBJECT_extension_pack_0-main.zip // 90.11 megabytes
+
+file_34: TEMPLATE_micro_directory-main.zip // 7.52 megabytes
+
+--------------------------------
+
+Total number of files: 35
+
+Total folder size: 2691.20 megabytes
+
+--------------------------------

@@ -1,0 +1,37 @@
+--------------------------------
+
+This Python program prints the names and file sizes (in megabytes) of each file inside of a particular folder.
+
+--------------------------------
+
+Directory: karbytes2025_5_B
+
+file_0: KARLINA_OBJECT_extension_pack_14-main.zip // 6.14 megabytes
+
+file_1: KARLINA_OBJECT_extension_pack_17-main.zip // 725.00 megabytes
+
+file_2: KARLINA_OBJECT_extension_pack_19-main.zip // 666.33 megabytes
+
+file_3: MINDS_2020_SCREENSHOTS-main.zip // 123.68 megabytes
+
+file_4: KARLINA_OBJECT_extension_pack_21-main.zip // 77.54 megabytes
+
+file_5: KARLINA_OBJECT_extension_pack_22-main.zip // 558.19 megabytes
+
+file_6: KARLINA_OBJECT_extension_pack_15-main.zip // 40.31 megabytes
+
+file_7: INSTAGRAM_KARBYTES_2024-main.zip // 317.29 megabytes
+
+file_8: KARLINA_OBJECT_extension_pack_20-main.zip // 108.04 megabytes
+
+file_9: KARLINA_OBJECT_extension_pack_16-main.zip // 1034.76 megabytes
+
+file_10: KARLINA_OBJECT_extension_pack_18-main.zip // 396.16 megabytes
+
+--------------------------------
+
+Total number of files: 11
+
+Total folder size: 4053.42 megabytes
+
+--------------------------------
